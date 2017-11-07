@@ -7,5 +7,5 @@ DU Boshi
 ```
 ## Students
 ```
-Alex & Dra, John, Oska.
+Alexandra, David, John, Leon, Oska, etc.
 ```
