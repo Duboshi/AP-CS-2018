@@ -1,0 +1,18 @@
+教材网站
+http://greenteapress.com/wp/think-java/
+
+AP CS A课前准备：
+
+1. AP CS A使用Java语言，我们要编写和运行Java写成的程序，需要下载安装Java SE Development Kit - http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
+
+Windows 64位机型对应安装文件为197.78MB，Mac对应文件为226.6MB
+
+2. 我们还需要一个好用的编程工具，下载eclipse IDE for Java Developers - http://www.eclipse.org/downloads/packages/eclipse-ide-java-developers/oxygen1a
+
+Windows和Mac安装文件都是180MB左右
+
+3. 当我们写完代码之后，可以将它上传到网络，供其它人参考使用（在本课程中主要是作为交作业的途径）。如果一个开源项目代码很有用处，会有很多人因此获益，也会使它的作者变得很有名。GitHub是全球最大的代码托管网站，注册一个账户，把自己的账号和密码记住 - https://github.com/ 
+
+这是教材作者在GitHub上传的与教材有关的文件和代码 - https://github.com/AllenDowney/ThinkJavaCode
+
+可以先试着上传一个PDF文件
