@@ -1,5 +1,6 @@
 /*
  * with Chap11.java
+ * @author Dubos
  */
 
 //One common reason to define a class is to encapsulate related data in 
