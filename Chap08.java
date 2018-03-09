@@ -1,5 +1,6 @@
 /* 
  * Chap08 Arrays
+ * @author Dubos
  */
 
 import java.util.*;
