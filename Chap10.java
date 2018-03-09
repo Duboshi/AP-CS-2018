@@ -1,5 +1,7 @@
 /*
  * Chap 10 Objects
+ * @author Dubos
+ *
  * Java is an "object-oriented" language, which means that is uses objects
  * to represent data and provide methods related to them.
  * String is an object. Arrays are objects.
