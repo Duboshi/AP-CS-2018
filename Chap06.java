@@ -1,5 +1,6 @@
 /*
  * Chap06 Value methods
+ * @author Dubos
  */
 
 import java.util.Scanner;
