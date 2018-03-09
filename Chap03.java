@@ -1,6 +1,6 @@
 /**
  * Chap03 Input and output
- *
+ * @author Dubos
  */
 
 import java.util.Scanner;
@@ -26,7 +26,7 @@ public class Chap03 {
 		System.out.println("3.1 The System class");
 		System.out.println(System.out);
 		//The result indicates that System.out is a PrintStream.
-		//ThinkJava says  that out is a ¡°special value¡± provided by the System class.
+		//ThinkJava says  that out is a Â¡Â°special valueÂ¡Â± provided by the System class.
 		//System is a class defined in the java.lang package.
 		//"out" is a field in the System class (JavaLibrary). 
 		//PrintStream is a class defined in the java.io package.
