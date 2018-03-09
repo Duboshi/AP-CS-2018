@@ -1,5 +1,6 @@
 /*
  * Chap07 Loops
+ * @author Dubos
  */
 
 import java.util.Scanner;
