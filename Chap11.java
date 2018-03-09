@@ -1,6 +1,8 @@
 /*
  * Chap11 Classes
  * with Time.java
+ *
+ * @author Dubos
  */
 
 import java.io.PrintStream;
