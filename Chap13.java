@@ -1,6 +1,8 @@
 /*
  * Chap 13 Object of arrays
  * with Deck.java
+ *
+ * @author Dubos
  */
 
 import java.io.PrintStream;
@@ -95,7 +97,7 @@ public class Chap13 {
 		
 		out.println("Asymptotic analysis of algorithms");
 		//The running time of an algorithm on a particular input is the number of 
-		//primitive operations or ¡°steps¡± executed. The worst-case running time
+		//primitive operations or Â¡Â°stepsÂ¡Â± executed. The worst-case running time
 		//gives us an upper bound on the running time. We usually consider one
 		//algorithm to be more efficient than another if its worst-case running
 		//time has a lower order of growth. (CLRS 2.2)
@@ -103,7 +105,7 @@ public class Chap13 {
 		//The selection sort is not very efficient. To sort n items, it has to 
 		//traverse the array at most n-1 times. Each traversal takes an amount of time
 		//proportional to at most n. The total time is proportional to 
-		//n * (n ¨C 1).	
+		//n * (n Â¨C 1).	
 		//We say that the selection sort has a worst-case running time of 
 		//\Theta \left( n^{2}\right)
 		//(prounced "theta of n-squared").
