@@ -5,6 +5,8 @@
  * with Hand.java
  * with Player.java
  * with Eights.java
+ *
+ * @author Dubos
  */
 
 import java.util.Random;
