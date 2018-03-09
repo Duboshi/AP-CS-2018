@@ -1,5 +1,6 @@
 /*
  * with Chap12.java
+ * @author Dubos
  */
 
 public class Card {
