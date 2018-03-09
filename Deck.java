@@ -1,5 +1,6 @@
 /*
  * with Chap13.java
+ * @author Dubos
  */
 
 import java.util.Random;
