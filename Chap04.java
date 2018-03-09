@@ -1,6 +1,6 @@
 /**
  * Chap04 Void method
- *
+ * @author Dubos
  */
 
 public class Chap04 {
