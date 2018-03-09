@@ -1,6 +1,6 @@
 /**
  * Chap05 Conditionals and logic
- *
+ * @author Dubos
  */
 
 import java.util.Scanner;
