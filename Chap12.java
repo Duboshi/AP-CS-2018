@@ -1,6 +1,8 @@
 /*
  * Chap 12 Arrays of objects
  * with Card.java
+ *
+ * @author Dubos
  */
 
 import java.util.Arrays;
