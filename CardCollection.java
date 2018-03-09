@@ -1,5 +1,6 @@
 /*
  * with Chap14.java
+ * @author Dubos
  */
 
 import java.util.ArrayList;
