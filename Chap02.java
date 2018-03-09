@@ -1,6 +1,6 @@
 /**
  * Chap02 Variables and operators
- *
+ * @author Dubos
  */
 
 public class Chap02 {
