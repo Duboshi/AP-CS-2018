@@ -1,6 +1,6 @@
 /**
  * Chap01 The way of the program
- *
+ * @author Dubos
  */
 
 public class Chap01{
