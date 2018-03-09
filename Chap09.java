@@ -1,5 +1,6 @@
 /*
  * Chap09 char and String
+ * @author Dubos
  */
 
 import java.io.PrintStream;
