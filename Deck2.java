@@ -1,5 +1,6 @@
 /*
  * With Chap14.java
+ * @author Dubos
  */
 
 public class Deck2 extends CardCollection {
