@@ -4,8 +4,3 @@
 ## Instructor
 ```
 DU Boshi
-```
-## Students
-```
-Alexandra, David, John, Leon, Oska, etc.
-```
